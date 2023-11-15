@@ -1,0 +1,10 @@
+﻿  P004_EntradaSalida_V0.cpp
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(21,11): warning C4101: 'IMC': variable local sin referencia
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(20,11): warning C4101: 'altura': variable local sin referencia
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(17,10): warning C4101: 'sexo': variable local sin referencia
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(19,9): warning C4101: 'peso': variable local sin referencia
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(18,9): warning C4101: 'edad': variable local sin referencia
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(14,30): warning C4101: 'sintoma3': variable local sin referencia
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(14,20): warning C4101: 'sintoma2': variable local sin referencia
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\P004_EntradaSalida_V0.cpp(14,10): warning C4101: 'sintoma1': variable local sin referencia
+  P004_EntradaSalida_V0.vcxproj -> C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\P004_EntradaSalida_V0\x64\Debug\P004_EntradaSalida_V0.exe

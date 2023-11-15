@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P010_Memoria_Din_V0", "P010_Memoria_Din_V0.vcxproj", "{76717862-1313-408D-9BF3-EABEFF676C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Debug|x64.ActiveCfg = Debug|x64
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Debug|x64.Build.0 = Debug|x64
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Debug|x86.Build.0 = Debug|Win32
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Release|x64.ActiveCfg = Release|x64
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Release|x64.Build.0 = Release|x64
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Release|x86.ActiveCfg = Release|Win32
+		{76717862-1313-408D-9BF3-EABEFF676C0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {750746F8-57ED-42EE-9276-A6A3F24326C1}
+	EndGlobalSection
+EndGlobal

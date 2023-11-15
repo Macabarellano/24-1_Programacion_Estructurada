@@ -1,0 +1,4 @@
+﻿  Tester.cpp
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\Tester\Tester.cpp(25,18): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\Tester\Tester.cpp(20,9): warning C4101: 'HP': variable local sin referencia
+  Tester.vcxproj -> C:\Users\LABORATORIO 210\Desktop\Mau_Repos_NO_BORRAR_PLIS\24-1_Programacion_Estructurada\Tester\x64\Debug\Tester.exe

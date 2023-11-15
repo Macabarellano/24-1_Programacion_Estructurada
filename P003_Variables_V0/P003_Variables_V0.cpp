@@ -42,4 +42,16 @@ int main()
     std::cout << "En el booleano tienes guardado: " <<
         mi_primer_booleano << std::endl;
     //Solicitar al usuario cada una de las variables
+
+
+    //Realizar operaciones
+    float a, b, c;
+    a = 10;
+    b = 5;
+    c = a / b;
+    std::cout << "El resultado de la división es: " << c << std::endl;
+    int d, e, f;
+    d = 10;
+
+
 }
